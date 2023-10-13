@@ -2,7 +2,7 @@
 
   <h1> Stock Market Pipe Funnel</h1>
 
- ### [Market Pipe Funnel Video](https://youtu.be/LGoyCpiYvhI)
+ ### [Market Pipe Funnel Video](https://youtu.be/pqBF1z3ZyHk)
 
 <h2>Description</h2>
 This project involves a multi-step process to identify and select the top-performing stocks. It begins with identifying the top 1000 stock gainers listed on the Market Watch screener website. From this initial list, the project focuses on companies with the highest pre-market percentage change. The next step is to narrow down the selection to the top 4 performers based on pre-market data. Subsequently, their respective 10K financial data is scrutinized, specifically focusing on operating income and loss figures to further refine the list of top performers. Finally, the project concludes by retrieving 30-minute intraday data for the top 2 companies, offering a comprehensive analysis of their stock performance.
